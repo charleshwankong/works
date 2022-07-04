@@ -1,5 +1,4 @@
 # Portfolio of Work Experience
-###### Last Updated: July 2022
 
 Click on a project link to get more information.
 
@@ -10,3 +9,4 @@ Click on a project link to get more information.
 |Jan 2021|A|A
 |Jan 2020|B|B
 |Jan 2019|C|C
+###### Last Updated: July 2022
