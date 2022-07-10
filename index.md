@@ -11,3 +11,10 @@ Jan 2020|B|B
 Jan 2019|C|C
 ###### Last Updated: July 2022
 
+```mermaid
+graph TD
+A-->B
+A-->C
+B-->D
+C-->D
+```
