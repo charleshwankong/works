@@ -1,10 +1,4 @@
-# Selected Projects
-
-Click on a project link to get more information.
-
-
-
-Time    |Technologies                      |Project Name                                                                                           |Design Documentation                                                                  |Code Samples 
+Time    |Technologies                      |Project Name                                                                                           |Readme                                                                  |Code Samples 
 --------|----------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------
 Jan 2022|`gRPC`, `MapReduce`               |MapReduce from Scratch in gRPC                                                                         |[link](https://charleshwankong.github.io/Kaggle-and-Machine-Learning/)                          
 Jan 2021|`gRPC`,                             |Multiprocess Implementation of a gRPC-based MapReduce Algorithm                                        |[link](https://github.com/charleshwankong/MultithreadedDistributedFilesystem)
