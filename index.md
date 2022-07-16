@@ -1,6 +1,6 @@
 # Selected Projects
-##### Charles Kong
-The following records are part of ongoing documentation of things I've worked on.
+
+The following records are part of ongoing documentation of things I (Charles) have worked on.
 Click on a project link to get more information.
 
 
