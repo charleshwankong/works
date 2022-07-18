@@ -1,6 +1,7 @@
 # Selected Projects
 
-Click on a project link to get more information.
+Click on the links on the rightmost columns for more information.
+
 
 Time    |Tags                              |Selected Project                                                                                       |Docs                                                                                          |Code        
 --------|----------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------
