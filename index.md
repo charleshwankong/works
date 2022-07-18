@@ -2,7 +2,7 @@
 
 Click on a project link to get more information.
 
-Time    |Tags                              |Project Name                                                                                           |Readme                                                                                        |Code Samples
+Time    |Tags                              |Selected Project                                                                                       |Docs                                                                                          |Code        
 --------|----------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------
 May 2022|`C++`,`gRPC`, `MapReduce`         |MapReduce from Scratch in gRPC                                                                         |[link](https://github.com/charleshwankong/gRPC-Based-MapReduce)                               |coming soon
 Feb 2022|`C++`, `OpenMP`, `MPI`            |Analyzing Communication Latencies of Multithreaded, Multiprocess, and MT-MP Workloads in HPC Cluster   |[link](https://github.com/charleshwankong/Latency-Study-of-Manycore-and-Manynode-Algorithms)  |coming soon
